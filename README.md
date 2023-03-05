@@ -1,6 +1,6 @@
 ## Olá, eu sou Malu Coimbra!
 
-👩‍💻 - Atualmente sou estágia de Desenvolvimento Web 
+👩‍💻 - Atualmente sou estágiaria de Desenvolvimento Web 
 
 👩‍🎓 - Graduanda em ciência da computação 
 
