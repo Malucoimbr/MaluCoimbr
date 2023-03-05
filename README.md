@@ -2,7 +2,7 @@
 
 👩‍💻 - Atualmente sou estágia de Desenvolvimento Web 
 
-👩‍🎓 - Graduanda em Análise e Desenvolvimento de Sistemas
+👩‍🎓 - Graduanda em ciência da computação 
 
 
 <div align="center">
